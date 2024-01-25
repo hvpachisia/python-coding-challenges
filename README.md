@@ -1,4 +1,4 @@
-# python-coding-challenges
+# python-coding
 This repo is a collection of the Python problem sets I worked on during [UChicago's class CAPP121](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/index.html).
 
 [Modeling Epidemics](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa1/index.html) - basics of Python, translate simple algorithms into code
